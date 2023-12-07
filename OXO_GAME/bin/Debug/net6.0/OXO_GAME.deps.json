@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "OXO_GAME/1.0.0": {
+        "runtime": {
+          "OXO_GAME.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OXO_GAME/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

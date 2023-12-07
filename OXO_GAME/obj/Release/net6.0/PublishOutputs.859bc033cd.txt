@@ -1,0 +1,5 @@
+F:\Desktop\OXO_GAME\OXO_GAME.exe
+F:\Desktop\OXO_GAME\OXO_GAME.dll
+F:\Desktop\OXO_GAME\OXO_GAME.deps.json
+F:\Desktop\OXO_GAME\OXO_GAME.runtimeconfig.json
+F:\Desktop\OXO_GAME\OXO_GAME.pdb

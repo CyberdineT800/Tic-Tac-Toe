@@ -1,0 +1,14 @@
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\bin\Release\net6.0\OXO_GAME.exe
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\bin\Release\net6.0\OXO_GAME.deps.json
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\bin\Release\net6.0\OXO_GAME.runtimeconfig.json
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\bin\Release\net6.0\OXO_GAME.dll
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\bin\Release\net6.0\OXO_GAME.pdb
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.GeneratedMSBuildEditorConfig.editorconfig
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.AssemblyInfoInputs.cache
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.AssemblyInfo.cs
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.csproj.CoreCompileInputs.cache
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.dll
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\refint\OXO_GAME.dll
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.pdb
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\OXO_GAME.genruntimeconfig.cache
+F:\Desktop\New_C#_Projects\OXO_GAME\OXO_GAME\obj\Release\net6.0\ref\OXO_GAME.dll
