@@ -4,7 +4,7 @@ using System.Text;
 
 class Program
 {
-    static char[,] board = new char[3, 3]; /// must always be a square
+    static char[,] board = new char[5, 5]; /// must always be a square
 
     static char point = '■';
     static int point_x, point_y;
